@@ -1,0 +1,25 @@
+short: zig
+long: zig
+name: Zig
+references:
+  std: https://ziglang.org/documentation/master/std/
+  testing: https://ziglang.org/documentation/master/std/#A;std:testing
+  io: https://ziglang.org/documentation/master/std/#A;std:io
+  print: https://ziglang.org/documentation/master/std/#A;std:debug.print
+  comptime: https://ziglang.org/documentation/master/#comptime
+  pub: https://ziglang.org/documentation/master/#pub
+  const: https://ziglang.org/documentation/master/#const
+  var: https://ziglang.org/documentation/master/#var
+  fn: https://ziglang.org/documentation/master/#Functions
+  if: https://ziglang.org/documentation/master/#if
+  while: https://ziglang.org/documentation/master/#while
+  for: https://ziglang.org/documentation/master/#for
+  switch: https://ziglang.org/documentation/master/#switch
+  struct: https://ziglang.org/documentation/master/#struct
+  enum: https://ziglang.org/documentation/master/#enum
+  union: https://ziglang.org/documentation/master/#union
+  error: https://ziglang.org/documentation/master/#Errors
+  try: https://ziglang.org/documentation/master/#try
+  catch: https://ziglang.org/documentation/master/#catch
+  defer: https://ziglang.org/documentation/master/#defer
+  unreachable: https://ziglang.org/documentation/master/#unreachable
